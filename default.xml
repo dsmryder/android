@@ -14,7 +14,7 @@
   <remote  name="dsmryder"
            fetch="https://github.com/" />
 
-  <project path="build" name="CyanogenMod/android_build">
+  <project path="build" name="dsmryder/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" />
