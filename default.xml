@@ -220,7 +220,7 @@
   <project path="vendor/tmobile/themes/Androidian" name="CyanogenMod/android_vendor_tmobile_themes_Androidian" />
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
-  <project path="vendor/motorola/triumph" name="dsmryder/android_vendor_motorola_triumph" />
+  <project path="vendor/motorola/triumph" name="dsmryder/android_vendor_motorola_triumph" revision="master"/>
 
   <project path="android" name="dsmryder/android" revision="master"/>
 
