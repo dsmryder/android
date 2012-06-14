@@ -21,7 +21,7 @@
   <project path="bootable/bootloader/legacy" name="dsmryder/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="dsmryder/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="dsmryder/android_bootable_recovery" />
-  <project path="dalvik" name="g60madman/android_dalvik" />
+  <project path="dalvik" name="dsmryder/android_dalvik" />
   <project path="development" name="dsmryder/android_development" />
   <project path="device/common" name="dsmryder/android_device_common" />
   <project path="device/htc/msm7x30-common" name="dsmryder/android_device_htc_msm7x30-common" />
@@ -71,7 +71,7 @@
   <project path="external/icu4c" name="dsmryder/android_external_icu4c" />
   <project path="external/iproute2" name="dsmryder/android_external_iproute2" />
   <project path="external/ipsec-tools" name="dsmryder/android_external_ipsec-tools" />
-  <project path="external/iptables" name="mantera/android_external_iptables" />
+  <project path="external/iptables" name="dsmryder/android_external_iptables" />
   <project path="external/jdiff" name="dsmryder/android_external_jdiff" />
   <project path="external/jhead" name="dsmryder/android_external_jhead" />
   <project path="external/jpeg" name="dsmryder/android_external_jpeg" />
@@ -134,10 +134,10 @@
   <project path="frameworks/opt/emoji" name="dsmryder/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="dsmryder/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="dsmryder/android_hardware_gpsshim" />
-  <project path="hardware/libhardware" name="mantera/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="mantera/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="mantera/android_hardware_msm7k" />
-  <project path="hardware/qcom/gps" name="mantera/android_hardware_qcom_gps" />
+  <project path="hardware/libhardware" name="dsmryder/android_hardware_libhardware" />
+  <project path="hardware/libhardware_legacy" name="dsmryder/android_hardware_libhardware_legacy" />
+  <project path="hardware/msm7k" name="dsmryder/android_hardware_msm7k" />
+  <project path="hardware/qcom/gps" name="dsmryder/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="dsmryder/android_hardware_qcom_media" />
   <project path="hardware/ril" name="dsmryder/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="dsmryder/android_hardware_alsa_sound" />
@@ -180,7 +180,7 @@
   <project path="packages/apps/SamsungServiceMode" name="dsmryder/android_packages_apps_SamsungServiceMode" />
   <project path="packages/apps/Settings" name="dsmryder/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="dsmryder/android_packages_apps_SoundRecorder" />
-  <project path="packages/apps/SpeechRecorder" name="g60madman/android_packages_apps_SpeechRecorder" />
+  <project path="packages/apps/SpeechRecorder" name="dsmryder/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Superuser" name="dsmryder/android_packages_apps_Superuser" />
   <project path="packages/apps/Stk" name="dsmryder/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="dsmryder/android_packages_apps_Tag" />
@@ -205,10 +205,10 @@
   <project path="prebuilt" name="dsmryder/android_prebuilt" />
   <project path="sdk" name="dsmryder/android_sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="dsmryder/android_system_bluetooth" />
-  <project path="system/core" name="mantera/android_system_core" />
+  <project path="system/core" name="dsmryder/android_system_core" />
   <project path="system/extras" name="dsmryder/android_system_extras" />
   <project path="system/media" name="dsmryder/android_system_media" />
-  <project path="system/netd" name="mantera/android_system_netd" />
+  <project path="system/netd" name="dsmryder/android_system_netd" />
   <project path="system/su" name="dsmryder/android_system_su" />
   <project path="system/vold" name="dsmryder/android_system_vold" />
   <project path="system/wlan/ti" name="dsmryder/android_system_wlan_ti" />
