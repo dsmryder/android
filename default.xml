@@ -33,7 +33,7 @@
   <project path="external/apache-http" name="dsmryder/android_external_apache-http" />
   <project path="external/astl" name="dsmryder/android_external_astl" />
   <project path="external/bash" name="dsmryder/android_external_bash" />
-  <project path="external/bison" name="Cdsmryder/android_external_bison" />
+  <project path="external/bison" name="dsmryder/android_external_bison" />
   <project path="external/busybox" name="dsmryder/android_external_busybox" />
   <project path="external/blktrace" name="dsmryder/android_external_blktrace" />
   <project path="external/bluetooth/bluez" name="dsmryder/android_external_bluetooth_bluez" />
