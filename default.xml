@@ -12,7 +12,7 @@
            remote="github" />
 
   <remote  name="dsmryder"
-           fetch="https://github.com/" />
+           fetch="git://github.com/" />
 
   <project path="build" name="dsmryder/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
