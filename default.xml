@@ -165,7 +165,7 @@
   <project path="packages/apps/CMWimaxSettings" name="dsmryder/android_packages_apps_CMWimaxSettings" />
   <project path="packages/apps/Contacts" name="dsmryder/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="dsmryder/android_packages_apps_DeskClock" />
-  <project path="packages/apps/DockAudio" name="dsmryder/android_packages_apps_DockAudio" />
+  <project path="packages/apps/DockAudio" name="dsmryder/android_packages_apps_DockAudio" revision="klingon"/>
   <project path="packages/apps/DSPManager" name="dsmryder/android_packages_apps_DSPManager" />
   <project path="packages/apps/FM" name="dsmryder/android_packages_apps_FM" />
   <project path="packages/apps/GanOptimizer" name="dsmryder/android_packages_apps_GanOptimizer" />
