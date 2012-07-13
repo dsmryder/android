@@ -21,12 +21,12 @@
   <project path="bootable/bootloader/legacy" name="dsmryder/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="dsmryder/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="dsmryder/android_bootable_recovery" />
-  <project path="dalvik" name="dsmryder/android_dalvik" />
+  <project path="dalvik" name="dsmrydertest/android_dalvik" />
   <project path="development" name="dsmryder/android_development" />
   <project path="device/common" name="dsmryder/android_device_common" />
   <project path="device/htc/msm7x30-common" name="dsmryder/android_device_htc_msm7x30-common" />
   <project path="device/motorola/common" name="dsmryder/android_device_motorola_common" />
-  <project path="device/motorola/triumph" name="dsmryder/android_device_motorola_triumph" />
+  <project path="device/motorola/triumph" name="dsmrydertest/android_device_motorola_triumph" />
   <project path="device/semc/msm7x30-common" name="dsmryder/android_device_semc_msm7x30-common" />
   <project path="external/alsa-lib" name="dsmryder/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="dsmryder/android_external_alsa-utils" />
@@ -129,14 +129,14 @@
   <project path="external/xmlwriter" name="dsmryder/android_external_xmlwriter" />
   <project path="external/yaffs2" name="dsmryder/android_external_yaffs2" />
   <project path="external/zlib" name="dsmryder/android_external_zlib" />
-  <project path="frameworks/base" name="dsmryder/android_frameworks_base" />
+  <project path="frameworks/base" name="dsmrydertest/android_frameworks_base" />
   <project path="frameworks/ex" name="dsmryder/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="dsmryder/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="dsmryder/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="dsmryder/android_hardware_gpsshim" />
   <project path="hardware/libhardware" name="dsmryder/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="dsmryder/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="dsmryder/android_hardware_msm7k" />
+  <project path="hardware/msm7k" name="dsmrydertest/android_hardware_msm7k" />
   <project path="hardware/qcom/gps" name="dsmryder/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="dsmryder/android_hardware_qcom_media" />
   <project path="hardware/ril" name="dsmryder/android_hardware_ril" />
@@ -156,7 +156,7 @@
   <project path="packages/apps/Bluetooth" name="dsmryder/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="dsmryder/android_packages_apps_Browser" />
   <project path="packages/apps/Calendar" name="dsmryder/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="dsmryder/android_packages_apps_Camera" />
+  <project path="packages/apps/Camera" name="dsmrydertest/android_packages_apps_Camera" />
   <project path="packages/apps/CertInstaller" name="dsmryder/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMParts" name="dsmryder/android_packages_apps_CMParts" />
   <project path="packages/apps/CMScreenshot" name="dsmryder/android_packages_apps_CMScreenshot" />
@@ -170,7 +170,7 @@
   <project path="packages/apps/FM" name="dsmryder/android_packages_apps_FM" />
   <project path="packages/apps/GanOptimizer" name="dsmryder/android_packages_apps_GanOptimizer" />
   <project path="packages/apps/HTMLViewer" name="dsmryder/android_packages_apps_HTMLViewer" />
-  <project path="packages/apps/Launcher2" name="dsmryder/android_packages_apps_Launcher2" />
+  <project path="packages/apps/Launcher2" name="dsmrydertest/android_packages_apps_Launcher2" />
   <project path="packages/apps/Mms" name="dsmryder/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="dsmryder/android_packages_apps_Music" />
   <project path="packages/apps/Nfc" name="dsmryder/android_packages_apps_Nfc" />
@@ -206,14 +206,14 @@
   <project path="prebuilt" name="dsmryder/android_prebuilt" />
   <project path="sdk" name="dsmryder/android_sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="dsmryder/android_system_bluetooth" />
-  <project path="system/core" name="dsmryder/android_system_core" />
+  <project path="system/core" name="dsmrydertest/android_system_core" />
   <project path="system/extras" name="dsmryder/android_system_extras" />
   <project path="system/media" name="dsmryder/android_system_media" />
   <project path="system/netd" name="dsmryder/android_system_netd" />
   <project path="system/su" name="dsmryder/android_system_su" />
   <project path="system/vold" name="dsmryder/android_system_vold" />
   <project path="system/wlan/ti" name="dsmryder/android_system_wlan_ti" />
-  <project path="vendor/cyanogen" name="dsmryder/android_vendor_cyanogen" />
+  <project path="vendor/cyanogen" name="dsmrydertest/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="dsmryder/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="dsmryder/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="dsmryder/android_vendor_tmobile_libs_com.tmobile.themes" />
@@ -221,7 +221,7 @@
   <project path="vendor/tmobile/themes/Androidian" name="dsmryder/android_vendor_tmobile_themes_Androidian" />
   <project path="vendor/tmobile/themes/Cyanbread" name="dsmryder/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="dsmryder/android_vendor_tmobile_products_themes" />
-  <project path="vendor/motorola/triumph" name="dsmryder/android_vendor_motorola_triumph" />
+  <project path="vendor/motorola/triumph" name="dsmrydertest/android_vendor_motorola_triumph" />
 
   <project path="android" name="dsmrydertest/android" revision="gingerbread"/>
 
