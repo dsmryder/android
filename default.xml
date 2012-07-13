@@ -11,7 +11,7 @@
   <default revision="gingerbread"
            remote="github" />
 
-  <remote  name="dsmryder"
+  <remote  name="dsmrydertest"
            fetch="git@github.com/" />
 
   <project path="build" name="dsmryder/android_build">
@@ -223,6 +223,6 @@
   <project path="vendor/tmobile/products/themes" name="dsmryder/android_vendor_tmobile_products_themes" />
   <project path="vendor/motorola/triumph" name="dsmryder/android_vendor_motorola_triumph" />
 
-  <project path="android" name="dsmryder/android" revision="gingerbread"/>
+  <project path="android" name="dsmrydertest/android" revision="gingerbread"/>
 
 </manifest>
