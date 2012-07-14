@@ -26,7 +26,7 @@
   <project path="device/common" name="dsmryder/android_device_common" />
   <project path="device/htc/msm7x30-common" name="dsmryder/android_device_htc_msm7x30-common" />
   <project path="device/motorola/common" name="dsmryder/android_device_motorola_common" />
-  <project path="device/motorola/triumph" name="dsmrydertest/android_device_motorola_triumph" />
+  <project path="device/motorola/triumph" name="dsmryder/android_device_motorola_triumph" />
   <project path="device/semc/msm7x30-common" name="dsmryder/android_device_semc_msm7x30-common" />
   <project path="external/alsa-lib" name="dsmryder/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="dsmryder/android_external_alsa-utils" />
