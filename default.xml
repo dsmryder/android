@@ -129,7 +129,7 @@
   <project path="external/xmlwriter" name="dsmryder/android_external_xmlwriter" />
   <project path="external/yaffs2" name="dsmryder/android_external_yaffs2" />
   <project path="external/zlib" name="dsmryder/android_external_zlib" />
-  <project path="frameworks/base" name="dsmryder/android_frameworks_base" />
+  <project path="frameworks/base" name="dsmryder/android_frameworks_base" revision="gingerbread" />
   <project path="frameworks/ex" name="dsmryder/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="dsmryder/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="dsmryder/android_hardware_broadcom_wlan" />
