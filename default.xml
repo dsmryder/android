@@ -28,7 +28,7 @@
   <project path="device/motorola/common" name="dsmryder/android_device_motorola_common" revision="gingerbread-release" />
 
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" revision="gingerbread-release" />
-  <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
+  <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" revision="gingerbread-release" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/astl" name="CyanogenMod/android_external_astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
