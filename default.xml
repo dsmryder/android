@@ -155,7 +155,7 @@
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calulator" />
+  <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" />
