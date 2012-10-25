@@ -8,7 +8,7 @@
            fetch="https://github.com/"
            review="review.cyanogenmod.com" />
 
-  <default revision="gingerbread"
+  <default revision="froyo-stable"
            remote="github" />
 
   <remote  name="dsmryder"
