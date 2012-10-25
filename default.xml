@@ -24,7 +24,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" revision="gingerbread-release" />
-  <project path="device/motorola/triumph" name="dsmryder/android_device_motorola_triumph" />
+  <project path="device/motorola/triumph" name="dsmryder/android_device_motorola_triumph" revision="gingerbread" />
   <project path="device/motorola/common" name="dsmryder/android_device_motorola_common" revision="gingerbread-release" />
 
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
