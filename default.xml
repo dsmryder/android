@@ -78,7 +78,7 @@
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
   <project path="external/libexif" name="CyanogenMod/android_external_libexif" />
-  <project path="external/libffi" name="CyanogenModyder/android_external_libffi" />
+  <project path="external/libffi" name="CyanogenModyder/android_external_libffi" revision="gingerbread-release" />
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
