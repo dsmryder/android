@@ -18,7 +18,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" />
-  <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
+  <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" revision="gingerbread-release" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />  
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
