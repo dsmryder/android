@@ -5,7 +5,7 @@
            review="review.source.android.com" />
 
   <remote  name="github"
-           fetch="https://github.com/CyanogenMod/"
+           fetch="https://github.com/"
            review="review.cyanogenmod.com" />
 
   <default revision="gingerbread"
@@ -14,7 +14,7 @@
   <remote  name="dsmryder"
            fetch="git@github.com:dsmryder/" />
 
-  <project path="build" name="dsmryder/android_build">
+  <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" />
