@@ -30,51 +30,51 @@
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" revision="gingerbread-release" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" revision="gingerbread-release" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" revision="gingerbread-release" />
-  <project path="external/astl" name="CyanogenMod/android_external_astl" />
-  <project path="external/bash" name="CyanogenMod/android_external_bash" />
-  <project path="external/bison" name="CyanogenMod/android_external_bison" />
-  <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
+  <project path="external/astl" name="CyanogenMod/android_external_astl" revision="gingerbread-release" />
+  <project path="external/bash" name="CyanogenMod/android_external_bash" revision="bash-4.1-froyo" />
+  <project path="external/bison" name="CyanogenMod/android_external_bison" revision="gingerbread-release" />
+  <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" revision="gingerbread-release" />
   <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
-  <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
-  <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
-  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
-  <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
-  <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
+  <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" revision="gingerbread-release" />
+  <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" revision="gingerbread-release" />
+  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" revision="gingerbread-release" />
+  <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" revision="gingerbread-release" />
+  <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" revision="gingerbread-release" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
-  <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
-  <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
-  <project path="external/clearsilver" name="CyanogenMod/android_external_clearsilver" />
-  <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="master" />
-  <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
-  <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
-  <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
-  <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="master" />
-  <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" />
-  <project path="external/easymock" name="CyanogenMod/android_external_easymock" />
-  <project path="external/elfcopy" name="CyanogenMod/android_external_elfcopy" />
-  <project path="external/elfutils" name="CyanogenMod/android_external_elfutils" />
-  <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
-  <project path="external/emma" name="CyanogenMod/android_external_emma" />
-  <project path="external/esd" name="CyanogenMod/android_external_esd" />
-  <project path="external/expat" name="CyanogenMod/android_external_expat" />
-  <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
-  <project path="external/flac" name="CyanogenMod/android_external_flac" />
-  <project path="external/freetype" name="CyanogenMod/android_external_freetype" />
-  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
-  <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
-  <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
-  <project path="external/grub" name="CyanogenMod/android_external_grub" />
-  <project path="external/gtest" name="CyanogenMod/android_external_gtest" />
-  <project path="external/guava" name="CyanogenMod/android_external_guava" />
-  <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" />
-  <project path="external/icu4c" name="CyanogenMod/android_external_icu4c" />
-  <project path="external/iproute2" name="CyanogenMod/android_external_iproute2" />
-  <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
-  <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
-  <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
-  <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
+  <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" revision="gingerbread-release" />
+  <project path="external/chromium" name="CyanogenMod/android_external_chromium" revision="gingerbread-release" />
+  <project path="external/clearsilver" name="CyanogenMod/android_external_clearsilver" revision="gingerbread-release" />
+  <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="gingerbread-release" />
+  <project path="external/dbus" name="CyanogenMod/android_external_dbus" revision="gingerbread-release" />
+  <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" revision="gingerbread-release" />
+  <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" revision="gingerbread-release" />
+  <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="gingerbread-release" />
+  <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" revision="gingerbread-release" />
+  <project path="external/easymock" name="CyanogenMod/android_external_easymock" revision="gingerbread-release" />
+  <project path="external/elfcopy" name="CyanogenMod/android_external_elfcopy" revision="gingerbread-release" />
+  <project path="external/elfutils" name="CyanogenMod/android_external_elfutils" revision="gingerbread-release" />
+  <project path="external/embunit" name="CyanogenMod/android_external_embunit" revision="gingerbread-release" />
+  <project path="external/emma" name="CyanogenMod/android_external_emma" revision="gingerbread-release" />
+  <project path="external/esd" name="CyanogenMod/android_external_esd" revision="gingerbread-release" />
+  <project path="external/expat" name="CyanogenMod/android_external_expat" revision="gingerbread-release" />
+  <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" revision="gingerbread-release" />
+  <project path="external/flac" name="CyanogenMod/android_external_flac" revision="gingerbread-release" />
+  <project path="external/freetype" name="CyanogenMod/android_external_freetype" revision="gingerbread-release" />
+  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" revision="gingerbread-release" />
+  <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" revision="froyo" />
+  <project path="external/giflib" name="CyanogenMod/android_external_giflib" revision="gingerbread-release" />
+  <project path="external/grub" name="CyanogenMod/android_external_grub" revision="gingerbread-release" />
+  <project path="external/gtest" name="CyanogenMod/android_external_gtest" revision="gingerbread-release" />
+  <project path="external/guava" name="CyanogenMod/android_external_guava" revision="gingerbread-release" />
+  <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" revision="gingerbread-release" />
+  <project path="external/icu4c" name="CyanogenMod/android_external_icu4c" revision="gingerbread-release" />
+  <project path="external/iproute2" name="CyanogenMod/android_external_iproute2" revision="gingerbread-release" />
+  <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" revision="gingerbread-release" />
+  <project path="external/iptables" name="CyanogenMod/android_external_iptables" revision="gingerbread-release" />
+  <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" revision="gingerbread-release" />
+  <project path="external/jhead" name="CyanogenMod/android_external_jhead" revision="gingerbread-release" />
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
-  <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
+  <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" revision="gingerbread-release" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
   <project path="external/libexif" name="CyanogenMod/android_external_libexif" />
