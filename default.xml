@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
+           fetch="https://android.git.kernel.org/"
            review="review.source.android.com" />
 
   <remote  name="github"
-           fetch="git://github.com/"
+           fetch="https://github.com/"
            review="review.cyanogenmod.com" />
+
 
   <remote  name="dsmryder"
            fetch="https://github.com/dsmryder/" />
