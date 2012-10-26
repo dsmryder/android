@@ -155,7 +155,7 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/policies/base" name="CyanogenMod/android_frameworks_policies_base" remote="github" revision="froyo-stable" />
 
-  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" revision="master" />
+  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" revision="gingerbread-release" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" revision="froyo-stable" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="github" revision="froyo-stable" />
