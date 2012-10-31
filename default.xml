@@ -30,7 +30,7 @@
 
   <project path="device/common" name="device/common" />
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" revision="froyo-stable" />
-<!--  <project path="device/sample" name="device/sample" />
+  <project path="device/sample" name="device/sample" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" remote="github" revision="master" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" revision="master" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" revision="froyo-stable" />
@@ -59,7 +59,6 @@
   <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="master" />
   <project path="device/samsung/vibrant" name="CyanogenMod/android_device_samsung_vibrant" remote="github" revision="froyo-release" />
   <project path="device/yuhua/x2" name="CyanogenMod/android_device_yuhua_x2" remote="github" revision="froyo-stable" />
--->
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" revision="gingerbread-release" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" revision="gingerbread-release" />
   <project path="external/apache-http" name="platform/external/apache-http" revision="master" />
